@@ -1,0 +1,1051 @@
+{
+  "generatedAt": "2026-04-25T23:25:48.193Z",
+  "sourceDir": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt",
+  "recipes": [
+    {
+      "id": "granola",
+      "title": "Homemade Granola with Almonds, Coconut and Seeds",
+      "sourceFile": "granola.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/granola.txt",
+      "source": {
+        "label": "Unknown",
+        "url": ""
+      },
+      "servings": "",
+      "tags": [
+        "breakfast",
+        "oven"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "200 g rolled oats",
+            "",
+            "40 g almonds, roughly chopped",
+            "",
+            "100 g pumpkin seeds",
+            "",
+            "30 g shredded coconut",
+            "",
+            "30 ml neutral oil (or olive oil)",
+            "",
+            "50 g honey (or mix with a little maple syrup)",
+            "",
+            "1 ml salt"
+          ]
+        },
+        {
+          "name": "Add After Baking",
+          "lines": [
+            "40 g dried cranberries",
+            "",
+            "20 g sesame seeds",
+            "",
+            "Optional: chopped dried mango pieces"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "Preheat oven to 160°C.",
+            "",
+            "Roughly chop the almonds.",
+            "",
+            "In a large bowl, mix oil, honey, and salt until combined.",
+            "",
+            "Add oats, chopped almonds, pumpkin seeds, and shredded coconut.",
+            "Stir until everything is lightly coated.",
+            "",
+            "Spread the mixture in an even layer on a baking sheet.",
+            "",
+            "Bake for 20–25 minutes, stirring every 10 minutes to ensure even roasting.",
+            "",
+            "When the granola is golden and fragrant, remove from the oven.",
+            "The edges may be slightly darker.",
+            "",
+            "Let the granola cool completely on the tray so it becomes crunchy.",
+            "",
+            "Once cool, mix in cranberries, sesame seeds, and chopped dried mango.",
+            "",
+            "Store in an airtight container."
+          ]
+        },
+        {
+          "name": "Notes",
+          "lines": [
+            "For larger clusters, press the granola flat after the final stir and allow it to cool without disturbing it.",
+            "",
+            "Maple syrup, date syrup, or cinnamon can be used for variation.",
+            "",
+            "Serve with kefir, yogurt, or milk."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "instruction",
+          "text": "Preheat oven to 160°C."
+        },
+        {
+          "type": "instruction",
+          "text": "Roughly chop the almonds."
+        },
+        {
+          "type": "instruction",
+          "text": "In a large bowl, mix oil, honey, and salt until combined."
+        },
+        {
+          "type": "instruction",
+          "text": "Add oats, chopped almonds, pumpkin seeds, and shredded coconut."
+        },
+        {
+          "type": "instruction",
+          "text": "Stir until everything is lightly coated."
+        },
+        {
+          "type": "instruction",
+          "text": "Spread the mixture in an even layer on a baking sheet."
+        },
+        {
+          "type": "instruction",
+          "text": "Bake for 20–25 minutes, stirring every 10 minutes to ensure even roasting."
+        },
+        {
+          "type": "instruction",
+          "text": "When the granola is golden and fragrant, remove from the oven."
+        },
+        {
+          "type": "instruction",
+          "text": "The edges may be slightly darker."
+        },
+        {
+          "type": "instruction",
+          "text": "Let the granola cool completely on the tray so it becomes crunchy."
+        },
+        {
+          "type": "instruction",
+          "text": "Once cool, mix in cranberries, sesame seeds, and chopped dried mango."
+        },
+        {
+          "type": "instruction",
+          "text": "Store in an airtight container."
+        }
+      ],
+      "steps": [
+        "Preheat oven to 160°C.",
+        "Roughly chop the almonds.",
+        "In a large bowl, mix oil, honey, and salt until combined.",
+        "Add oats, chopped almonds, pumpkin seeds, and shredded coconut.",
+        "Stir until everything is lightly coated.",
+        "Spread the mixture in an even layer on a baking sheet.",
+        "Bake for 20–25 minutes, stirring every 10 minutes to ensure even roasting.",
+        "When the granola is golden and fragrant, remove from the oven.",
+        "The edges may be slightly darker.",
+        "Let the granola cool completely on the tray so it becomes crunchy.",
+        "Once cool, mix in cranberries, sesame seeds, and chopped dried mango.",
+        "Store in an airtight container."
+      ]
+    },
+    {
+      "id": "hamburger-helper",
+      "title": "One-pot Beef Macaroni",
+      "sourceFile": "hamburger-helper.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/hamburger-helper.txt",
+      "source": {
+        "label": "Unknown",
+        "url": ""
+      },
+      "servings": "",
+      "tags": [
+        "meat",
+        "one-pot",
+        "oven",
+        "pasta"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "- 1 yellow onion, diced",
+            "- 2 cloves garlic, minced",
+            "- 15 ml olive oil",
+            "- 450 g ground beef",
+            "- 15 g all-purpose flour",
+            "- 15 ml chili powder",
+            "- 2.5 ml smoked paprika",
+            "- 2.5 ml garlic powder",
+            "- 2.5 ml dried oregano",
+            "- 225 g tomato sauce",
+            "- 7 dl beef broth",
+            "- 225 g uncooked macaroni",
+            "- 100 g shredded cheddar cheese",
+            "- Salt and pepper (optional, to taste)"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Heat olive oil in a large deep skillet or Dutch oven over medium heat.",
+            "   Add onion and garlic and sauté until soft and translucent (about 5 minutes).",
+            "",
+            "2. Add ground beef and cook until fully browned. Drain excess fat if needed.",
+            "",
+            "3. Sprinkle flour, chili powder, smoked paprika, garlic powder, and oregano",
+            "   over the beef and continue stirring for about 2 minutes.",
+            "",
+            "4. Add tomato sauce and beef broth, stirring well and scraping any browned",
+            "   bits from the bottom of the pan.",
+            "",
+            "5. Stir in uncooked macaroni. Cover and bring to a boil over medium-high heat.",
+            "",
+            "6. Once boiling, stir briefly, reduce heat to medium-low, and re-cover.",
+            "   Simmer for about 10 minutes, stirring occasionally, until pasta is tender",
+            "   and sauce has thickened.",
+            "",
+            "7. Stir in half the cheddar cheese until melted. Sprinkle remaining cheese on",
+            "   top, cover with a lid, and turn off heat.",
+            "",
+            "8. Let sit until cheese melts completely. Serve hot."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "instruction",
+          "text": "Heat olive oil in a large deep skillet or Dutch oven over medium heat. Add onion and garlic and sauté until soft and translucent (about 5 minutes)."
+        },
+        {
+          "type": "instruction",
+          "text": "Add ground beef and cook until fully browned. Drain excess fat if needed."
+        },
+        {
+          "type": "instruction",
+          "text": "Sprinkle flour, chili powder, smoked paprika, garlic powder, and oregano over the beef and continue stirring for about 2 minutes."
+        },
+        {
+          "type": "instruction",
+          "text": "Add tomato sauce and beef broth, stirring well and scraping any browned bits from the bottom of the pan."
+        },
+        {
+          "type": "instruction",
+          "text": "Stir in uncooked macaroni. Cover and bring to a boil over medium-high heat."
+        },
+        {
+          "type": "instruction",
+          "text": "Once boiling, stir briefly, reduce heat to medium-low, and re-cover. Simmer for about 10 minutes, stirring occasionally, until pasta is tender and sauce has thickened."
+        },
+        {
+          "type": "instruction",
+          "text": "Stir in half the cheddar cheese until melted. Sprinkle remaining cheese on top, cover with a lid, and turn off heat."
+        },
+        {
+          "type": "instruction",
+          "text": "Let sit until cheese melts completely. Serve hot."
+        }
+      ],
+      "steps": [
+        "Heat olive oil in a large deep skillet or Dutch oven over medium heat. Add onion and garlic and sauté until soft and translucent (about 5 minutes).",
+        "Add ground beef and cook until fully browned. Drain excess fat if needed.",
+        "Sprinkle flour, chili powder, smoked paprika, garlic powder, and oregano over the beef and continue stirring for about 2 minutes.",
+        "Add tomato sauce and beef broth, stirring well and scraping any browned bits from the bottom of the pan.",
+        "Stir in uncooked macaroni. Cover and bring to a boil over medium-high heat.",
+        "Once boiling, stir briefly, reduce heat to medium-low, and re-cover. Simmer for about 10 minutes, stirring occasionally, until pasta is tender and sauce has thickened.",
+        "Stir in half the cheddar cheese until melted. Sprinkle remaining cheese on top, cover with a lid, and turn off heat.",
+        "Let sit until cheese melts completely. Serve hot."
+      ]
+    },
+    {
+      "id": "kikartsburgare",
+      "title": "Italian-style Veggie Burgers",
+      "sourceFile": "kikärtsburgare.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/kikärtsburgare.txt",
+      "source": {
+        "label": "Unknown",
+        "url": ""
+      },
+      "servings": "Serves 4",
+      "tags": [
+        "burgers",
+        "vegetarian"
+      ],
+      "sections": [
+        {
+          "name": "Burger Patties",
+          "lines": [
+            "- 1 yellow onion, finely chopped",
+            "- 3 cloves garlic, finely chopped",
+            "- 1 can (400 g) chickpeas, drained",
+            "- 1 can (400 g) artichoke hearts, drained",
+            "- 10 sun-dried tomatoes, finely chopped",
+            "- 1/2 pot fresh basil, chopped",
+            "- 1 dl chickpea flour",
+            "- Salt and black pepper to taste",
+            "- 2 dl panko breadcrumbs",
+            "- Olive oil (for frying)"
+          ]
+        },
+        {
+          "name": "Parmesan Dressing",
+          "lines": [
+            "- 2 dl yogurt (oat- or soy-based works well)",
+            "- 1 dl grated parmesan (dairy-free if preferred)",
+            "- Salt and black pepper to taste"
+          ]
+        },
+        {
+          "name": "For Serving",
+          "lines": [
+            "- 4 hamburger buns",
+            "- Sliced tomato",
+            "- Arugula (rocket)"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Make the patties",
+            "   - Add all burger patty ingredients except the panko to a food processor.",
+            "   - Pulse until you get a coarse mixture (do not overblend).",
+            "   - Shape into burgers and coat lightly in panko.",
+            "",
+            "2. Cook the burgers",
+            "   - Heat a generous amount of olive oil in a pan over medium heat.",
+            "   - Fry burgers until golden on both sides and heated through.",
+            "",
+            "3. Make the dressing",
+            "   - Mix all dressing ingredients in a bowl.",
+            "   - Season with salt and black pepper to taste.",
+            "",
+            "4. Assemble",
+            "   - Toast the buns lightly.",
+            "   - Fill with burger, parmesan dressing, tomato, and arugula.",
+            "   - Serve immediately."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "phase",
+          "text": "Make the patties"
+        },
+        {
+          "type": "instruction",
+          "text": "Add all burger patty ingredients except the panko to a food processor."
+        },
+        {
+          "type": "instruction",
+          "text": "Pulse until you get a coarse mixture (do not overblend)."
+        },
+        {
+          "type": "instruction",
+          "text": "Shape into burgers and coat lightly in panko."
+        },
+        {
+          "type": "phase",
+          "text": "Cook the burgers"
+        },
+        {
+          "type": "instruction",
+          "text": "Heat a generous amount of olive oil in a pan over medium heat."
+        },
+        {
+          "type": "instruction",
+          "text": "Fry burgers until golden on both sides and heated through."
+        },
+        {
+          "type": "phase",
+          "text": "Make the dressing"
+        },
+        {
+          "type": "instruction",
+          "text": "Mix all dressing ingredients in a bowl."
+        },
+        {
+          "type": "instruction",
+          "text": "Season with salt and black pepper to taste."
+        },
+        {
+          "type": "phase",
+          "text": "Assemble"
+        },
+        {
+          "type": "instruction",
+          "text": "Toast the buns lightly."
+        },
+        {
+          "type": "instruction",
+          "text": "Fill with burger, parmesan dressing, tomato, and arugula."
+        },
+        {
+          "type": "instruction",
+          "text": "Serve immediately."
+        }
+      ],
+      "steps": [
+        "Add all burger patty ingredients except the panko to a food processor.",
+        "Pulse until you get a coarse mixture (do not overblend).",
+        "Shape into burgers and coat lightly in panko.",
+        "Heat a generous amount of olive oil in a pan over medium heat.",
+        "Fry burgers until golden on both sides and heated through.",
+        "Mix all dressing ingredients in a bowl.",
+        "Season with salt and black pepper to taste.",
+        "Toast the buns lightly.",
+        "Fill with burger, parmesan dressing, tomato, and arugula.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": "kronartskocka",
+      "title": "Spiced Rice with Chickpeas and Artichokes",
+      "sourceFile": "kronärtskocka.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/kronärtskocka.txt",
+      "source": {
+        "label": "Unknown",
+        "url": ""
+      },
+      "servings": "",
+      "tags": [
+        "one-pot",
+        "vegetarian"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "- 30 ml olive oil",
+            "- 2 cloves garlic, minced",
+            "- Freshly cracked black pepper",
+            "- 1 yellow onion, diced",
+            "- 185 g uncooked long-grain white rice",
+            "- 1 can (400 g) diced tomatoes (with juices)",
+            "- 1 can (400 g) quartered artichoke hearts, drained",
+            "- 1 can (400 g) chickpeas, drained and rinsed",
+            "- 3.5 dl vegetable broth",
+            "- 2.5 ml salt (or to taste)",
+            "- 1/4 bunch fresh parsley, chopped",
+            "- 1 lemon, cut into wedges"
+          ]
+        },
+        {
+          "name": "Spices",
+          "lines": [
+            "- 7.5 ml smoked paprika",
+            "- 5 ml ground cumin",
+            "- 2.5 ml dried oregano",
+            "- 1 ml cayenne pepper"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Heat olive oil in a large deep skillet over medium-low heat. Add garlic",
+            "   and cook for 1–2 minutes until soft and fragrant.",
+            "",
+            "2. Add smoked paprika, cumin, oregano, cayenne, and black pepper. Stir and",
+            "   cook for about 1 minute to bloom the spices.",
+            "",
+            "3. Add onion and cook until soft and translucent (about 5 minutes).",
+            "",
+            "4. Stir in rice and cook for 2 minutes.",
+            "",
+            "5. Add chickpeas, artichokes, diced tomatoes, vegetable broth, salt, and most",
+            "   of the chopped parsley. Stir until well combined.",
+            "",
+            "6. Cover and bring to a boil. Once boiling, reduce heat to low and simmer for",
+            "   20 minutes, keeping a gentle simmer the whole time.",
+            "",
+            "7. Turn off heat and let rest for 5 minutes without removing the lid.",
+            "",
+            "8. Fluff with a fork, sprinkle with remaining parsley, and finish with fresh",
+            "   lemon juice before serving."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "instruction",
+          "text": "Heat olive oil in a large deep skillet over medium-low heat. Add garlic and cook for 1–2 minutes until soft and fragrant."
+        },
+        {
+          "type": "instruction",
+          "text": "Add smoked paprika, cumin, oregano, cayenne, and black pepper. Stir and cook for about 1 minute to bloom the spices."
+        },
+        {
+          "type": "instruction",
+          "text": "Add onion and cook until soft and translucent (about 5 minutes)."
+        },
+        {
+          "type": "instruction",
+          "text": "Stir in rice and cook for 2 minutes."
+        },
+        {
+          "type": "instruction",
+          "text": "Add chickpeas, artichokes, diced tomatoes, vegetable broth, salt, and most of the chopped parsley. Stir until well combined."
+        },
+        {
+          "type": "instruction",
+          "text": "Cover and bring to a boil. Once boiling, reduce heat to low and simmer for 20 minutes, keeping a gentle simmer the whole time."
+        },
+        {
+          "type": "instruction",
+          "text": "Turn off heat and let rest for 5 minutes without removing the lid."
+        },
+        {
+          "type": "instruction",
+          "text": "Fluff with a fork, sprinkle with remaining parsley, and finish with fresh lemon juice before serving."
+        }
+      ],
+      "steps": [
+        "Heat olive oil in a large deep skillet over medium-low heat. Add garlic and cook for 1–2 minutes until soft and fragrant.",
+        "Add smoked paprika, cumin, oregano, cayenne, and black pepper. Stir and cook for about 1 minute to bloom the spices.",
+        "Add onion and cook until soft and translucent (about 5 minutes).",
+        "Stir in rice and cook for 2 minutes.",
+        "Add chickpeas, artichokes, diced tomatoes, vegetable broth, salt, and most of the chopped parsley. Stir until well combined.",
+        "Cover and bring to a boil. Once boiling, reduce heat to low and simmer for 20 minutes, keeping a gentle simmer the whole time.",
+        "Turn off heat and let rest for 5 minutes without removing the lid.",
+        "Fluff with a fork, sprinkle with remaining parsley, and finish with fresh lemon juice before serving."
+      ]
+    },
+    {
+      "id": "paprika-pasta",
+      "title": "Italian Sausages and Peppers Pasta",
+      "sourceFile": "paprika-pasta.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/paprika-pasta.txt",
+      "source": {
+        "label": "Budget Bytes",
+        "url": "https://www.budgetbytes.com/pasta-with-sausage-and-peppers/"
+      },
+      "servings": "",
+      "tags": [
+        "meat",
+        "one-pot",
+        "pasta"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "- 3 bell peppers (any color)",
+            "- 400 g spicy sausage (chorizo, kabanoss, or similar)",
+            "- 400 g penne pasta (high quality)",
+            "- 1 yellow onion",
+            "- 2 cloves garlic (or garlic powder to taste)",
+            "- 1 can (500 g) finely diced tomatoes",
+            "- 7.5 ml basil",
+            "- 7.5 ml oregano",
+            "- 5 ml red pepper flakes (optional)",
+            "- Salt and pepper to taste",
+            "- Olive oil"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Add olive oil and the unsliced sausages to a large pot. Cook over medium heat until browned and firm enough to slice. They do not need to be fully cooked yet.",
+            "",
+            "2. While the sausages cook, thinly slice the bell peppers and onion, and mince the garlic.",
+            "",
+            "3. Remove the browned sausages from the pot. Add the peppers, onion, and garlic, and cook until softened.",
+            "",
+            "4. Slice the sausages into thin medallions and return them to the pot.",
+            "",
+            "5. Add the diced tomatoes, basil, oregano, and red pepper flakes. Stir well and let simmer over medium heat.",
+            "",
+            "6. In a separate pot, bring salted water to a boil and cook the pasta until just tender (slightly undercooked).",
+            "",
+            "7. Drain the pasta and add it to the sauce. Stir, cover, and let cook for about 5 minutes until most liquid is absorbed.",
+            "",
+            "8. Season with salt and pepper to taste. Serve hot."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "instruction",
+          "text": "Add olive oil and the unsliced sausages to a large pot. Cook over medium heat until browned and firm enough to slice. They do not need to be fully cooked yet."
+        },
+        {
+          "type": "instruction",
+          "text": "While the sausages cook, thinly slice the bell peppers and onion, and mince the garlic."
+        },
+        {
+          "type": "instruction",
+          "text": "Remove the browned sausages from the pot. Add the peppers, onion, and garlic, and cook until softened."
+        },
+        {
+          "type": "instruction",
+          "text": "Slice the sausages into thin medallions and return them to the pot."
+        },
+        {
+          "type": "instruction",
+          "text": "Add the diced tomatoes, basil, oregano, and red pepper flakes. Stir well and let simmer over medium heat."
+        },
+        {
+          "type": "instruction",
+          "text": "In a separate pot, bring salted water to a boil and cook the pasta until just tender (slightly undercooked)."
+        },
+        {
+          "type": "instruction",
+          "text": "Drain the pasta and add it to the sauce. Stir, cover, and let cook for about 5 minutes until most liquid is absorbed."
+        },
+        {
+          "type": "instruction",
+          "text": "Season with salt and pepper to taste. Serve hot."
+        }
+      ],
+      "steps": [
+        "Add olive oil and the unsliced sausages to a large pot. Cook over medium heat until browned and firm enough to slice. They do not need to be fully cooked yet.",
+        "While the sausages cook, thinly slice the bell peppers and onion, and mince the garlic.",
+        "Remove the browned sausages from the pot. Add the peppers, onion, and garlic, and cook until softened.",
+        "Slice the sausages into thin medallions and return them to the pot.",
+        "Add the diced tomatoes, basil, oregano, and red pepper flakes. Stir well and let simmer over medium heat.",
+        "In a separate pot, bring salted water to a boil and cook the pasta until just tender (slightly undercooked).",
+        "Drain the pasta and add it to the sauce. Stir, cover, and let cook for about 5 minutes until most liquid is absorbed.",
+        "Season with salt and pepper to taste. Serve hot."
+      ]
+    },
+    {
+      "id": "pastagratang",
+      "title": "Pasta Casserole",
+      "sourceFile": "pastagratäng.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/pastagratäng.txt",
+      "source": {
+        "label": "Unknown",
+        "url": ""
+      },
+      "servings": "",
+      "tags": [
+        "meat",
+        "oven",
+        "pasta",
+        "vegetarian"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "- 350-400g Pasta (penne, rigatoni, fusilli, or similar)"
+          ]
+        },
+        {
+          "name": "Sauce",
+          "lines": [
+            "- 2–3 bell peppers",
+            "- 3 cloves garlic (or garlic powder to taste)",
+            "- 30–45 ml tomato paste",
+            "- 2 dl crème fraîche",
+            "- 1–2.5 dl reserved pasta water",
+            "- 1-2 balls mozzarella (torn or sliced)",
+            "- Grated cheddar cheese (to taste)",
+            "- Optional: parmesan for topping",
+            "- Olive oil or butter",
+            "- Salt and black pepper",
+            "- Spices:",
+            "  - Paprika, chili flakes",
+            "  - Dried basil and oregano"
+          ]
+        },
+        {
+          "name": "Optional Extras",
+          "lines": [
+            "- Spinach (fresh or frozen)",
+            "- Bacon or ham (if adding meat)",
+            "- Chickpeas (vegetarian protein option)"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Cook the pasta",
+            "   - Boil pasta in well-salted water until just al dente.",
+            "   - Before draining, reserve about 2.5 dl of pasta water.",
+            "   - Drain and set aside.",
+            "",
+            "2. Make the sauce",
+            "   - Heat olive oil or butter in a pan over medium heat.",
+            "   - Add bell peppers and garlic and cook until soft and fragrant.",
+            "   - Stir in tomato paste and cook for 1–2 minutes to remove the raw taste.",
+            "   - Add crème fraîche and gradually mix in pasta water until creamy.",
+            "   - Season with salt, pepper, and spices.",
+            "   - If using spinach, stir it in now and allow it to wilt.",
+            "",
+            "3. Assemble the casserole",
+            "   - Preheat oven to 200°C.",
+            "   - Add cooked pasta to a baking dish.",
+            "   - Mix in some of the mozzarella.",
+            "   - Pour sauce over the pasta and stir gently.",
+            "   - Top with remaining mozzarella and cheddar.",
+            "",
+            "4. Bake",
+            "   - Bake for about 8 minutes until cheese is melted, lightly golden,",
+            "     and sauce bubbles around the edges.",
+            "",
+            "5. Serve",
+            "   - Let rest for a few minutes before serving.",
+            "   - Parmesan to taste",
+            "   - Leftovers taste even better the next day."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "phase",
+          "text": "Cook the pasta"
+        },
+        {
+          "type": "instruction",
+          "text": "Boil pasta in well-salted water until just al dente."
+        },
+        {
+          "type": "instruction",
+          "text": "Before draining, reserve about 2.5 dl of pasta water."
+        },
+        {
+          "type": "instruction",
+          "text": "Drain and set aside."
+        },
+        {
+          "type": "phase",
+          "text": "Make the sauce"
+        },
+        {
+          "type": "instruction",
+          "text": "Heat olive oil or butter in a pan over medium heat."
+        },
+        {
+          "type": "instruction",
+          "text": "Add bell peppers and garlic and cook until soft and fragrant."
+        },
+        {
+          "type": "instruction",
+          "text": "Stir in tomato paste and cook for 1–2 minutes to remove the raw taste."
+        },
+        {
+          "type": "instruction",
+          "text": "Add crème fraîche and gradually mix in pasta water until creamy."
+        },
+        {
+          "type": "instruction",
+          "text": "Season with salt, pepper, and spices."
+        },
+        {
+          "type": "instruction",
+          "text": "If using spinach, stir it in now and allow it to wilt."
+        },
+        {
+          "type": "phase",
+          "text": "Assemble the casserole"
+        },
+        {
+          "type": "instruction",
+          "text": "Preheat oven to 200°C."
+        },
+        {
+          "type": "instruction",
+          "text": "Add cooked pasta to a baking dish."
+        },
+        {
+          "type": "instruction",
+          "text": "Mix in some of the mozzarella."
+        },
+        {
+          "type": "instruction",
+          "text": "Pour sauce over the pasta and stir gently."
+        },
+        {
+          "type": "instruction",
+          "text": "Top with remaining mozzarella and cheddar."
+        },
+        {
+          "type": "phase",
+          "text": "Bake"
+        },
+        {
+          "type": "instruction",
+          "text": "Bake for about 8 minutes until cheese is melted, lightly golden, and sauce bubbles around the edges."
+        },
+        {
+          "type": "phase",
+          "text": "Serve"
+        },
+        {
+          "type": "instruction",
+          "text": "Let rest for a few minutes before serving."
+        },
+        {
+          "type": "instruction",
+          "text": "Parmesan to taste"
+        },
+        {
+          "type": "instruction",
+          "text": "Leftovers taste even better the next day."
+        }
+      ],
+      "steps": [
+        "Boil pasta in well-salted water until just al dente.",
+        "Before draining, reserve about 2.5 dl of pasta water.",
+        "Drain and set aside.",
+        "Heat olive oil or butter in a pan over medium heat.",
+        "Add bell peppers and garlic and cook until soft and fragrant.",
+        "Stir in tomato paste and cook for 1–2 minutes to remove the raw taste.",
+        "Add crème fraîche and gradually mix in pasta water until creamy.",
+        "Season with salt, pepper, and spices.",
+        "If using spinach, stir it in now and allow it to wilt.",
+        "Preheat oven to 200°C.",
+        "Add cooked pasta to a baking dish.",
+        "Mix in some of the mozzarella.",
+        "Pour sauce over the pasta and stir gently.",
+        "Top with remaining mozzarella and cheddar.",
+        "Bake for about 8 minutes until cheese is melted, lightly golden, and sauce bubbles around the edges.",
+        "Let rest for a few minutes before serving.",
+        "Parmesan to taste",
+        "Leftovers taste even better the next day."
+      ]
+    },
+    {
+      "id": "stekt-torsk-avokadohollandaise",
+      "title": "Stekt torsk med rostad potatis och avokadohollandaise",
+      "sourceFile": "stekt-torsk-avokadohollandaise.txt",
+      "sourcePath": "/mnt/c/Users/yoshi/Dropbox/Personal/Food/txt/stekt-torsk-avokadohollandaise.txt",
+      "source": {
+        "label": "HelloFresh",
+        "url": "https://www.hellofresh.se/"
+      },
+      "servings": "För 4 personer",
+      "tags": [
+        "fish",
+        "oven"
+      ],
+      "sections": [
+        {
+          "name": "Ingredients",
+          "lines": [
+            "8 g Hello Sunrise",
+            "",
+            "2 avokado",
+            "",
+            "2 lök",
+            "",
+            "1 citrusfrukt",
+            "",
+            "800 g småpotatis",
+            "",
+            "1 knippe bladpersilja",
+            "",
+            "300 g haricots verts",
+            "",
+            "1 vitlöksklyfta",
+            "",
+            "8 g buljong",
+            "",
+            "500 g torsk"
+          ]
+        },
+        {
+          "name": "Ingår Inte",
+          "lines": [
+            "1 tsk salt till potatis",
+            "",
+            "3 msk olja till vitlöksolja",
+            "",
+            "2 dl vatten till sås",
+            "",
+            "1/2 tsk salt till sås",
+            "",
+            "2 ägg till sås",
+            "",
+            "1/2 tsk salt till fisk",
+            "",
+            "4 msk smör till sås"
+          ]
+        },
+        {
+          "name": "Steps",
+          "lines": [
+            "1. Rosta potatis",
+            "   - Värm ugnen till 240 °C/220 °C (varmluft).",
+            "   - Halvera potatis (oskalad) och placera på en plåt med bakplåtspapper. Blanda med en skvätt olivolja, salt och en nypa peppar.",
+            "   - Rosta i ugnen i 25–35 min, eller tills gyllene och mjuk.",
+            "   - TIPS: Använd fler plåtar om det blir för trångt.",
+            "",
+            "2. Förbered grönsaker",
+            "   - Ansa haricots verts.",
+            "   - Halvera citrusfrukt.",
+            "   - Halvera och kärna ur avokado. Gröp ur den med en sked direkt i en bägare.",
+            "   - Finhacka persilja och lök. Finhacka eller pressa vitlök.",
+            "   - Blanda vitlök, olivolja, en nypa salt och peppar i en liten skål. Ställ åt sidan.",
+            "",
+            "3. Rosta haricots verts",
+            "   - Placera haricots verts på en ny plåt med bakplåtspapper när det återstår 15 min av potatisens tillagningstid.",
+            "   - Blanda med en skvätt olivolja och en nypa salt, sätt in i ugnen och rosta resterande tid.",
+            "",
+            "4. Laga sås",
+            "   - Koka upp vatten i en liten kastrull. Tillsätt lök, buljong, en skvätt citrussaft, salt och en nypa peppar. Sänk till medelvärme och sjud i 1–2 min.",
+            "   - Separera äggula från äggvita.",
+            "   - Ta av kastrullen från värme.",
+            "   - Tillsätt smör, äggula och buljong till bägaren med avokado och blanda med en mixerstav (eller i en stationär mixer) tills slätt. Håll varmt.",
+            "   - TIPS: Mosa avokadon och tillsätt den i såsen om du inte har en mixer.",
+            "",
+            "5. Stek fisk",
+            "   - Hetta upp en skvätt olivolja i en stor stekpanna på medelhög värme.",
+            "   - Torka av fisk med hushållspapper och krydda med salt och Hello Sunrise.",
+            "   - Stek fisk med skinnsidan ner i 4–5 min. Vänd fisken och stek i ytterligare 3–4 min, eller tills gyllene och genomstekt.",
+            "   - Vänd potatis med persilja.",
+            "   - Vänd haricots verts med vitlöksolja.",
+            "   - TIPS: Fisken är klar när fiskköttet är vitt/ogenomskinligt och lätt faller isär.",
+            "",
+            "6. Servera",
+            "   - Lägg upp fisk, potatis och haricots verts på tallrikar.",
+            "   - Servera med avokado-hollandaisesås."
+          ]
+        }
+      ],
+      "stepItems": [
+        {
+          "type": "phase",
+          "text": "Rosta potatis"
+        },
+        {
+          "type": "instruction",
+          "text": "Värm ugnen till 240 °C/220 °C (varmluft)."
+        },
+        {
+          "type": "instruction",
+          "text": "Halvera potatis (oskalad) och placera på en plåt med bakplåtspapper. Blanda med en skvätt olivolja, salt och en nypa peppar."
+        },
+        {
+          "type": "instruction",
+          "text": "Rosta i ugnen i 25–35 min, eller tills gyllene och mjuk."
+        },
+        {
+          "type": "tip",
+          "text": "Använd fler plåtar om det blir för trångt."
+        },
+        {
+          "type": "phase",
+          "text": "Förbered grönsaker"
+        },
+        {
+          "type": "instruction",
+          "text": "Ansa haricots verts."
+        },
+        {
+          "type": "instruction",
+          "text": "Halvera citrusfrukt."
+        },
+        {
+          "type": "instruction",
+          "text": "Halvera och kärna ur avokado. Gröp ur den med en sked direkt i en bägare."
+        },
+        {
+          "type": "instruction",
+          "text": "Finhacka persilja och lök. Finhacka eller pressa vitlök."
+        },
+        {
+          "type": "instruction",
+          "text": "Blanda vitlök, olivolja, en nypa salt och peppar i en liten skål. Ställ åt sidan."
+        },
+        {
+          "type": "phase",
+          "text": "Rosta haricots verts"
+        },
+        {
+          "type": "instruction",
+          "text": "Placera haricots verts på en ny plåt med bakplåtspapper när det återstår 15 min av potatisens tillagningstid."
+        },
+        {
+          "type": "instruction",
+          "text": "Blanda med en skvätt olivolja och en nypa salt, sätt in i ugnen och rosta resterande tid."
+        },
+        {
+          "type": "phase",
+          "text": "Laga sås"
+        },
+        {
+          "type": "instruction",
+          "text": "Koka upp vatten i en liten kastrull. Tillsätt lök, buljong, en skvätt citrussaft, salt och en nypa peppar. Sänk till medelvärme och sjud i 1–2 min."
+        },
+        {
+          "type": "instruction",
+          "text": "Separera äggula från äggvita."
+        },
+        {
+          "type": "instruction",
+          "text": "Ta av kastrullen från värme."
+        },
+        {
+          "type": "instruction",
+          "text": "Tillsätt smör, äggula och buljong till bägaren med avokado och blanda med en mixerstav (eller i en stationär mixer) tills slätt. Håll varmt."
+        },
+        {
+          "type": "tip",
+          "text": "Mosa avokadon och tillsätt den i såsen om du inte har en mixer."
+        },
+        {
+          "type": "phase",
+          "text": "Stek fisk"
+        },
+        {
+          "type": "instruction",
+          "text": "Hetta upp en skvätt olivolja i en stor stekpanna på medelhög värme."
+        },
+        {
+          "type": "instruction",
+          "text": "Torka av fisk med hushållspapper och krydda med salt och Hello Sunrise."
+        },
+        {
+          "type": "instruction",
+          "text": "Stek fisk med skinnsidan ner i 4–5 min. Vänd fisken och stek i ytterligare 3–4 min, eller tills gyllene och genomstekt."
+        },
+        {
+          "type": "instruction",
+          "text": "Vänd potatis med persilja."
+        },
+        {
+          "type": "instruction",
+          "text": "Vänd haricots verts med vitlöksolja."
+        },
+        {
+          "type": "tip",
+          "text": "Fisken är klar när fiskköttet är vitt/ogenomskinligt och lätt faller isär."
+        },
+        {
+          "type": "phase",
+          "text": "Servera"
+        },
+        {
+          "type": "instruction",
+          "text": "Lägg upp fisk, potatis och haricots verts på tallrikar."
+        },
+        {
+          "type": "instruction",
+          "text": "Servera med avokado-hollandaisesås."
+        }
+      ],
+      "steps": [
+        "Värm ugnen till 240 °C/220 °C (varmluft).",
+        "Halvera potatis (oskalad) och placera på en plåt med bakplåtspapper. Blanda med en skvätt olivolja, salt och en nypa peppar.",
+        "Rosta i ugnen i 25–35 min, eller tills gyllene och mjuk.",
+        "Ansa haricots verts.",
+        "Halvera citrusfrukt.",
+        "Halvera och kärna ur avokado. Gröp ur den med en sked direkt i en bägare.",
+        "Finhacka persilja och lök. Finhacka eller pressa vitlök.",
+        "Blanda vitlök, olivolja, en nypa salt och peppar i en liten skål. Ställ åt sidan.",
+        "Placera haricots verts på en ny plåt med bakplåtspapper när det återstår 15 min av potatisens tillagningstid.",
+        "Blanda med en skvätt olivolja och en nypa salt, sätt in i ugnen och rosta resterande tid.",
+        "Koka upp vatten i en liten kastrull. Tillsätt lök, buljong, en skvätt citrussaft, salt och en nypa peppar. Sänk till medelvärme och sjud i 1–2 min.",
+        "Separera äggula från äggvita.",
+        "Ta av kastrullen från värme.",
+        "Tillsätt smör, äggula och buljong till bägaren med avokado och blanda med en mixerstav (eller i en stationär mixer) tills slätt. Håll varmt.",
+        "Hetta upp en skvätt olivolja i en stor stekpanna på medelhög värme.",
+        "Torka av fisk med hushållspapper och krydda med salt och Hello Sunrise.",
+        "Stek fisk med skinnsidan ner i 4–5 min. Vänd fisken och stek i ytterligare 3–4 min, eller tills gyllene och genomstekt.",
+        "Vänd potatis med persilja.",
+        "Vänd haricots verts med vitlöksolja.",
+        "Lägg upp fisk, potatis och haricots verts på tallrikar.",
+        "Servera med avokado-hollandaisesås."
+      ]
+    }
+  ]
+}

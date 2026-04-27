@@ -1,0 +1,9 @@
+{
+  "name": "Recipe Shelf",
+  "short_name": "Recipes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#2f5d50",
+  "icons": []
+}

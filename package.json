@@ -1,0 +1,12 @@
+{
+  "name": "recipe-shelf",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "convert": "node scripts/convert-recipes.mjs",
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "prepare-release": "node scripts/prepare-release.mjs"
+  }
+}

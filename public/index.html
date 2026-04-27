@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#2f5d50">
+    <title>Recipe Shelf</title>
+    <link rel="manifest" href="/manifest.webmanifest">
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <button class="brand-button" id="brandButton" type="button" aria-label="Recipe Shelf home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg class="logo-mark-svg" viewBox="0 0 140 100" focusable="false">
+              <g transform="rotate(-12 47 51)">
+                <rect x="38" y="28" width="17" height="45" rx="2" fill="var(--logo-book-green)"></rect>
+                <rect x="42" y="36" width="9" height="3" fill="var(--surface)" opacity="0.85"></rect>
+                <rect x="42" y="43" width="10" height="3" fill="var(--surface)" opacity="0.85"></rect>
+                <rect x="42" y="65" width="9" height="3" fill="var(--surface)" opacity="0.85"></rect>
+              </g>
+              <rect x="60" y="24" width="19" height="52" rx="2" fill="var(--logo-book-yellow)"></rect>
+              <rect x="64" y="32" width="11" height="4" fill="var(--surface)" opacity="0.85"></rect>
+              <rect x="64" y="67" width="11" height="4" fill="var(--surface)" opacity="0.85"></rect>
+              <rect x="83" y="20" width="20" height="56" rx="2" fill="var(--logo-book-rose)"></rect>
+              <rect x="88" y="29" width="10" height="4" fill="var(--surface)" opacity="0.85"></rect>
+              <rect x="88" y="39" width="10" height="3" fill="var(--surface)" opacity="0.85"></rect>
+              <rect x="88" y="67" width="10" height="4" fill="var(--surface)" opacity="0.85"></rect>
+              <rect x="24" y="78" width="95" height="7" rx="2" fill="var(--logo-shelf)"></rect>
+              <path d="M28 85h8l-2 9h-4l-2-9ZM109 85h8l-2 9h-4l-2-9Z" fill="var(--logo-shelf)"></path>
+            </svg>
+          </span>
+          <span class="brand-copy">
+            <span class="brand-eyebrow" id="brandEyebrow">Library</span>
+            <span class="brand-title" id="brandTitle">Recipe Shelf</span>
+          </span>
+        </button>
+        <div class="top-actions">
+          <button class="icon-button" id="navButton" type="button" aria-label="Hide recipe navigation" title="Hide recipe navigation" hidden>
+            <span aria-hidden="true">☰</span>
+          </button>
+          <button class="icon-button" id="themeButton" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <span aria-hidden="true">◐</span>
+          </button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="recipe-panel" id="recipePanel" aria-label="Recipe browser">
+          <button class="nav-panel-close" id="navPanelCloseButton" type="button" aria-label="Hide recipe navigation" title="Hide recipe navigation">
+            <span aria-hidden="true">×</span>
+          </button>
+          <label class="search">
+            <span>Search</span>
+            <span class="search-field">
+              <span class="search-icon" aria-hidden="true">⌕</span>
+              <input id="searchInput" type="search" autocomplete="off" placeholder="pasta, chickpeas, granola...">
+            </span>
+          </label>
+          <div class="tag-strip" id="tagStrip" aria-label="Recipe tags"></div>
+          <div class="recipe-list" id="recipeList"></div>
+        </section>
+
+        <section class="detail-panel" id="recipeDetail" aria-live="polite"></section>
+      </main>
+    </div>
+    <div class="nav-backdrop" id="navBackdrop" hidden></div>
+
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
